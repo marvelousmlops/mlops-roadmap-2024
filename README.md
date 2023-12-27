@@ -6,7 +6,7 @@ Programming skills are crucial for an MLOps engineer. Python is the most commonl
 ### 1.1. Python & IDEs
 Start learning Python through books and practice.
 
-- **Book Suggestion:** _Python Crash Course, 3rd Edition_ by Eric Matthes
+- **Book Suggestion:** [Python Crash Course, 3rd Edition](https://www.amazon.com/stores/Eric-Matthes/author/B01DPU378I?ref=ap_rdr&store_ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true) by Eric Matthes
 - **Code Practice:** [LeetCode Python Problems](https://leetcode.com/problemset/)
 - **Courses:** Learn Python 3
 - **Track Suggestions:** Python fundamentals, Python programming
