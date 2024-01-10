@@ -8,7 +8,7 @@ Start learning Python through books and practice.
 
 - **Book Suggestion:** [Python Crash Course, 3rd Edition](https://www.amazon.com/stores/Eric-Matthes/author/B01DPU378I?ref=ap_rdr&store_ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true) by Eric Matthes
 - **Code Practice:** [LeetCode Python Problems](https://leetcode.com/problemset/)
-- **Courses:** Learn Python 3
+- **Courses:** [Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
 - **Track Suggestions:** Python fundamentals, Python programming
 - **Important Topics:** Installing Python, using virtual environments, IDE usage, Python basics, Pytest, Packaging
 
