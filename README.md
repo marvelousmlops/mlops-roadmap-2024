@@ -5,7 +5,7 @@ Programming skills are crucial for an MLOps engineer. Python is the most commonl
 
 ### 1.1. Python & IDEs
 Start learning Python through books and practice.
-
+- **Tutorial Suggestion:** https://realpython.com
 - **Book Suggestion:** [Python Crash Course, 3rd Edition](https://www.amazon.com/stores/Eric-Matthes/author/B01DPU378I?ref=ap_rdr&store_ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true) by Eric Matthes
 - **Code Practice:** [LeetCode Python Problems](https://leetcode.com/problemset/)
 - **Courses:** [Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
@@ -18,7 +18,7 @@ Understanding bash is essential for MLOps tasks.
 
 - **Book Suggestion:** _The Linux Command Line, 2nd Edition_ by William E. Shotts
 - **Course:** [Bash mastery](https://www.udemy.com/course/bash-mastery)
-- **Tutorial:** [VIM beginners guide](https://www.freecodecamp.org/news/vim-beginners-guide/)
+- **Tutorials:** [VIM beginners guide](https://www.freecodecamp.org/news/vim-beginners-guide/), [VIM adventures](https://vim-adventures.com/), [VIM by Daniel Miessler](https://danielmiessler.com/p/vim/)
 
 ## 2. Containerization and Kubernetes
 These technologies are vital in modern software engineering.
@@ -40,7 +40,7 @@ Kubernetes is essential for machine learning model training and deployment.
 ## 3. Machine Learning Fundamentals
 An MLOps engineer should have a basic understanding of machine learning models.
 
-- **Course:** [MLCourse.ai](https://mlcourse.ai/)
+- **Courses:** [MLCourse.ai](https://mlcourse.ai/), [Fast.ai](https://course.fast.ai)
 - **Book Suggestion:** _Applied Machine Learning and AI for Engineers_ by Jeff Prosise
 
 ## 4. MLOps Principles
@@ -50,6 +50,7 @@ Awareness of MLOps principles and maturity factors is required.
   - _Designing Machine Learning Systems_ by Chip Huyen
   - _Introducing MLOps_ by Mark Treveil and Dataiku
 - **Assessment:** [MLOps maturity assessment](https://marvelousmlops.substack.com/p/mlops-maturity-assessment)
+- **Great resource on MLOps:** [ml-ops.org](https://ml-ops.org)
 
 ## 5. MLOps Components
 MLOps platforms consist of various components, from version control to feature stores. 
@@ -67,7 +68,7 @@ Critical for traceable and reproducible ML model deployments.
 - **Books:**
   - _Learning GitHub Actions_ by Brent Laster
   - _Learning Git_ by Anna Skoulikari
-- **Tutorials & Courses:** [Git & GitHub for beginners](https://www.youtube.com/watch?v=RGOj5yH7evk), [Python to Production guide](https://www.udemy.com/course/setting-up-the-linux-terminal-for-software-development/)
+- **Tutorials & Courses:** [Git & GitHub for beginners](https://www.youtube.com/watch?v=RGOj5yH7evk), [Python to Production guide](https://www.udemy.com/course/setting-up-the-linux-terminal-for-software-development/), [Version Control Missing Semester](https://missing.csail.mit.edu/2020/version-control/), https://learngitbranching.js.org/
 - **Tool:** [Pre-commit hooks](https://marvelousmlops.substack.com/p/welcome-to-pre-commit-heaven)
 
 ### 5.2. Orchestration
